@@ -33,7 +33,6 @@ random_forest_pipeline:
     max_features: 'auto'
     max_leaf_nodes: null
     min_impurity_decrease: 0.0
-    min_impurity_split: null
     bootstrap: true
     oob_score: false
     n_jobs: null
